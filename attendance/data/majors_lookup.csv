@@ -1,0 +1,16 @@
+include_regex,exclude_regex,major
+econ(omics)?,^$,econ-ba
+foreign affairs,^$,foraff-ba
+math,^$,math-ba
+cog(nitive)? sci(ence)?,^$,incogs-ba
+(ba)?(^| )(cs|computer science) \(?college\)?,^$,incomp-ba
+(^| )(cs|computer science),(ba)?(^| )(cs|computer science) \(?college\)?,compsc-bs
+^it| it$,^$,comm-bsc
+comm,pre-?comm(erce)?,comm-bsc
+pre-?comm(erce)?,^$,precomm
+phil(osophy)?,^$,phil-ba
+stat(istic)?s?,^$,instats-ba
+rel(igious)? studies,^$,relig-ba
+urban (and|\&) environmental planning,^$,plan-buep
+bme,^$,biomen-bs
+english,teaching|education,engl-ba

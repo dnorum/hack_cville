@@ -1,0 +1,4 @@
+include_regex,exclude_regex,team_position
+Rethink Membership Coordinator,^$,rethink_member_coord
+Hustle Class Director,^$,hustle_class_direct
+Pioneer Associate Producer \(Inactive\),^$,pioneer_assoc_prod_inactive
